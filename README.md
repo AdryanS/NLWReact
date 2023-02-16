@@ -7,6 +7,8 @@
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<img src="https://github.com/AdryanS/nlwReact/blob/main/NLW.png" width="100%" />
+
 
 ## ✨ Tecnologias
 
