@@ -27,7 +27,7 @@ export const CountdonwContext = createContext({} as CountdonwContextData);
 export function CountdonwProvider({ children }: CountdonwProviderProps) {
   const { startNewChallenge } = useContext(ChallengesContext);
 
-  const [time, setTime] = useState(0.4 * 60);
+  const [time, setTime] = useState(40 * 60);
   const [isActive, setIsActive] = useState(false);
   const [hasFinished, setHasFinished] = useState(false);
 
